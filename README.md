@@ -1,6 +1,6 @@
 # proyecto_sql_DB
 
-Esta base de datos se llama "vazquez_bank" y se utiliza para registrar información sobre clientes, cuentas bancarias, transacciones, préstamos y pagos de préstamos.
+Esta base de datos se llama "vazquez_bank" y es una DB sobre una cuenta bancaria
 
 La tabla "cliente" almacena información personal del cliente, como su nombre, apellido, fecha de nacimiento, estado civil, documento y número de teléfono. Cada cliente es identificado únicamente por su "cliente_id".
 
