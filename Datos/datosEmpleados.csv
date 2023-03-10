@@ -1,0 +1,7 @@
+empleado_id,nombre,apellido,email,fecha_nacimiento,fecha_contratacion,salario,cargo
+1,John,Doe,jdoe@@vazquez.banco.com,1990-01-01,2020-01-01,50000.00,Gerente
+2,Jane,Doe,janedoe@@vazquez.banco.com,1995-05-10,2020-02-01,40000.00,Analista
+3,Robert,Smith,rsmith@@vazquez.banco.com,1985-06-15,2020-03-01,35000.00,Analista
+4,Lisa,Jones,ljones@@vazquez.banco.com,1992-09-20,2021-01-01,30000.00,Cajero
+5,Michael,Johnson,mjohnson@@vazquez.banco.com,1993-12-25,2021-02-01,30000.00,Cajero
+6,Samantha,Williams,swilliams@@vazquez.banco.com,1998-03-05,2021-03-01,25000.00,Asistente

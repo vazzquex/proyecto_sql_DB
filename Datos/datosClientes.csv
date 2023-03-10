@@ -1,0 +1,21 @@
+cliente_id,nombre,apellido,direccion,fecha_nacimiento,estado_civil,documento,telefono
+1,Juan,Pérez,Calle 123,1980-01-01,Soltero,12345678,5551234567
+2,María,González,Calle 456,1985-02-02,Casada,23456789,5552345678
+3,Pedro,Rodríguez,Calle 789,1990-03-03,Soltero,34567890,5553456789
+4,Ana,Martínez,Calle 987,1995-04-04,Soltera,45678901,5554567890
+5,Luis,López,Calle 654,1987-05-05,Casado,56789012,5555678901
+6,Sofía,Hernández,Calle 321,1992-06-06,Casado,56369112,5555571921
+7,Carlos,García,Calle 111,1980-07-07,Casado,78901234,5557890123
+8,Laura,Sánchez,Calle 222,1985-08-08,Soltera,89012345,5558901234
+9,José,Hernández,Calle 333,1990-09-09,Casado,90123456,5559012345
+10,Carmen,Flores,Calle 444,1984-10-10,Soltera,01234567,5550123456
+11,Andrés,Mendoza,Calle 555,1989-11-11,Casado,12345670,5551234567
+12,Patricia,Soto,Calle 666,1994-12-12,Soltera,23456781,5552345678
+13,Oscar,López,Calle 777,1986-01-13,Casado,34567892,5553456789
+14,Mariana,García,Calle 888,1991-02-14,Soltera,45678903,5554567890
+15,Fernando,Martínez,Calle 999,1996-03-15,Soltero,56789014,5555678901
+16,Paola,Rodríguez,Calle 246,1981-04-16,Casada,67890125,5556789012
+17,David,González,Calle 369,1986-05-17,Soltero,78901236,5557890123
+18,Silvia,Ramírez,Calle 258,1991-06-18,Casada,89012347,5558901234
+19,Diego,Flores,Calle 147,1996-07-19,Soltero,90123458,5559012345
+20,Ana Karenina,Sánchez,Calle 369,1984-08-20,Casada,01234579,5550123456
