@@ -15,6 +15,18 @@ CREATE TABLE cliente(
     CONSTRAINT PK_CLASS PRIMARY KEY (cliente_id)
 );
 
+CREATE TABLE empleados (
+  empleado_id INT PRIMARY KEY AUTO_INCREMENT,
+  nombre VARCHAR(50) NOT NULL,
+  apellido VARCHAR(50) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  fecha_nacimiento DATE,
+  fecha_contratacion DATE,
+  salario DECIMAL(10, 2),
+  cargo VARCHAR(50)
+);
+
+
 CREATE TABLE cuenta(
 	cuenta_id int NOT NULL,
     cliente_id int NOT NULL,
